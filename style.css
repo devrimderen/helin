@@ -1,0 +1,27 @@
+.ilkim{
+    background-color: yellowgreen;
+    width: 200px;
+    height: 200px;
+    border-radius: 200%;
+    border-radius:20% ;
+    color:brown 
+}
+.ilkim ul{
+    color: aquamarine;
+}
+.ilkim ul h1{
+    color:black;
+}
+
+.ilk2{
+    background-color: brown;
+    width:200px;
+    height: 200px;
+    border-radius: 50%;
+    color: yellowgreen;
+}
+
+
+.paragraf{
+    color: blue;
+}
